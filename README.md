@@ -45,6 +45,8 @@ As conexões elétricas foram mapeadas e padronizadas seguindo a arquitetura aba
 5. Arraste a esfera para os quadrantes de distância (Distante, Médio e Próximo) e observe os LEDs trocarem de cor, o buzzer alterar o ritmo do som e as mensagens mudarem dinamicamente no LCD.
 6. Aproxime a esfera a menos de 50 cm (ativando a tela vermelha de perigo) e dê um clique no **Push Button preto** localizado no centro da placa de ensaio para validar o reset de manobra bem-sucedida.
 
+https://github.com/user-attachments/assets/90801f2a-d07b-463b-9b6f-5c956806f119
+
 ---
 
 ## 🔗 Link da Simulação Online
